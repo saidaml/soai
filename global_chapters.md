@@ -510,6 +510,11 @@ Social Media Accounts
 ### Brussels
 Social Media Accounts
 
+[Meetup](https://www.meetup.com/School-of-AI-Brussels/)
+[Twitter]https://twitter.com/SaidaAhmedML
+[LinkedIN]https://www.linkedin.com/company/school-of-ai-brussels/
+
+
 **No social accounts**
 
 # Bangladesh
